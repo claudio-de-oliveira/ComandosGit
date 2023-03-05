@@ -20,3 +20,6 @@
 
 - git checkout -b "branch-novo"
 - git push origin branch-novo
+- git checkout main (retorna para o main)
+- git merge branch-novo (o merge vai acontecer no main)
+- git push origin main
