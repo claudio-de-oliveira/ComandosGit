@@ -23,3 +23,7 @@
 - git checkout main (retorna para o main)
 - git merge branch-novo (o merge vai acontecer no main)
 - git push origin main
+
+## Projeto de terceiros
+
+- git clone https://github.com/claudio-de-oliveira/ComandosGit.git
