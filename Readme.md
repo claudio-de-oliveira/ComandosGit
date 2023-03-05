@@ -27,3 +27,5 @@
 ## Projeto de terceiros
 
 - git clone https://github.com/claudio-de-oliveira/ComandosGit.git
+- fork (copia um repositório de terceiros para o seu github)
+- pull request (envia sugestão para terceiros)
